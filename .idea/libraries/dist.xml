@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Cafe Rain.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/Cafe_Rain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
